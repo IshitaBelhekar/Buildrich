@@ -1,0 +1,1 @@
+[23-Jan-2024 10:50:57 America/Chicago] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home2/buildrich/public_html/send_contact.php on line 18
